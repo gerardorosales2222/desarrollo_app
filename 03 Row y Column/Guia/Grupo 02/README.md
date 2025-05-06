@@ -1,8 +1,8 @@
 # Guía de creación de app
 
 ## Subtitulo 
-1 - Apretar la convinación de teclas 
-
+### 1 - Apretar la combinación de teclas 
+##### 1.1 -
 
 
 
