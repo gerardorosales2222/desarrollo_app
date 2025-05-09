@@ -18,23 +18,31 @@
 ### 2 - Crear archivo
 
 *  Convinar las teclas ctrl + shift + p
-![Imagen](https://github.com/JohyArs75/desarrollo_app/blob/d850ef1bc573109e6e0e960bd2cb3dfac1916bad/img/Guia_G2/teclas.png) 
+####
+ ![Imagen](https://github.com/JohyArs75/desarrollo_app/blob/d850ef1bc573109e6e0e960bd2cb3dfac1916bad/img/Guia_G2/teclas.png) 
 
 *  Seleccionar la opcion de new proyect
-![Imagen](img/Guia_G2/newproyect.png)
+####
+ ![Imagen](https://github.com/JohyArs75/desarrollo_app/blob/c5d43245ddac8c4a4d68a9e1765b0591599c297b/img/Guia_G2/new%20proyect.png)
 
 
 *  Eligimos la opcion **Empety**
-#### ![Imagen ]()
+####
+ ![Imagen ](https://github.com/JohyArs75/desarrollo_app/blob/c5d43245ddac8c4a4d68a9e1765b0591599c297b/img/Guia_G2/empety.png)
 
 * Eligamos nuestra carpeta donde se guardara el proyecto
-###
+#### 
+![Imagen ](https://github.com/JohyArs75/desarrollo_app/blob/c5d43245ddac8c4a4d68a9e1765b0591599c297b/img/Guia_G2/select%20carpet.png)
 
 * Pongamos un nombre a este proyecto
 #### 
+![Imagen ]()
 
-*  Seleccionar la opcion de new proyect
-#### ![Imagen ]()
+*  Esperamos y LISTO!
+* Esto puede tardar un poco, entre 1 o 2 minutos... o más
+####
+![Imagen ](https://github.com/JohyArs75/desarrollo_app/blob/c5d43245ddac8c4a4d68a9e1765b0591599c297b/img/Guia_G2/cargando.png)
+
 
 ###  - 
 
