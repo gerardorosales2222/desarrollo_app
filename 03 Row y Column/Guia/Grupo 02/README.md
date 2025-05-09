@@ -18,7 +18,7 @@
 ### 2 - Crear archivo
 
 *  Convinar las teclas ctrl + shift + p
-#### ![Imagen ]() ![Imagen ]() ![Imagen ]()
+#### ![Imagen](img/Guia_G2/tecla_ctrl.jpg) ![Imagen](img/Guia_G2/tecla_shift.jpg) ![Imagen](img/Guia_G2/tecla_p.png )
 
 *  Seleccionar la opcion de new proyect
 #### ![Imagen ]()
