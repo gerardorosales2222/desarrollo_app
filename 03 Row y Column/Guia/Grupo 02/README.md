@@ -18,7 +18,7 @@
 ### 2 - Crear archivo
 
 *  Convinar las teclas ctrl + shift + p
-![Imagen](img/Guia_G2/teclas.png) 
+![Imagen](https://github.com/JohyArs75/desarrollo_app/blob/d850ef1bc573109e6e0e960bd2cb3dfac1916bad/img/Guia_G2/teclas.png) 
 
 *  Seleccionar la opcion de new proyect
 ![Imagen](img/Guia_G2/newproyect.png)
