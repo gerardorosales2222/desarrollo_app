@@ -33,7 +33,7 @@
 
 * Eligamos nuestra carpeta donde se guardara el proyecto
 #### 
-![Imagen ](https://github.com/JohyArs75/desarrollo_app/blob/c5d43245ddac8c4a4d68a9e1765b0591599c297b/img/Guia_G2/select%20carpet.png)
+![Imagen ](https://github.com/JohyArs75/desarrollo_app/blob/f3816150f2f9f322f1ddb775726400b23771bdf4/img/Guia_G2/select%20carpet.png)
 
 * Pongamos un nombre a este proyecto
 #### 
