@@ -18,10 +18,11 @@
 ### 2 - Crear archivo
 
 *  Convinar las teclas ctrl + shift + p
-#### ![Imagen](img/Guia_G2/tecla_ctrl.jpg) ![Imagen](img/Guia_G2/tecla_shift.jpg) ![Imagen](img/Guia_G2/tecla_p.png )
+![Imagen](img/Guia_G2/teclas.png) 
 
 *  Seleccionar la opcion de new proyect
-#### ![Imagen ]()
+![Imagen](img/Guia_G2/newproyect.png)
+
 
 *  Eligimos la opcion **Empety**
 #### ![Imagen ]()
