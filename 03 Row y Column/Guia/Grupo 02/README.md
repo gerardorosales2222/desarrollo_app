@@ -10,9 +10,11 @@
 ![Imagen ]()
 
 - Descargar el **SDK** y descomprimirlo
-
+#### 
+![Imagen ]()
 - Seleccionamos en donde dice **Local** y seleccionamos la carpeta
-
+#### 
+![Imagen ]()
 - Este proceso puede llevar tiempo entre 7 a 10 minutos, se paciente 😊
 
 ### 2 - Crear archivo
@@ -24,7 +26,6 @@
 *  Seleccionar la opcion de new proyect
 ####
  ![Imagen](https://github.com/JohyArs75/desarrollo_app/blob/c5d43245ddac8c4a4d68a9e1765b0591599c297b/img/Guia_G2/new%20proyect.png)
-
 
 *  Eligimos la opcion **Empety**
 ####
@@ -42,10 +43,14 @@
 * Esto puede tardar un poco, entre 1 o 2 minutos... o más
 ####
 ![Imagen ](https://github.com/JohyArs75/desarrollo_app/blob/c5d43245ddac8c4a4d68a9e1765b0591599c297b/img/Guia_G2/cargando.png)
+#### 
+* Esta es nuestra mesa de trabajo, el **MAIN**
+####
+![Imagen](https://github.com/JohyArs75/desarrollo_app/blob/3a0888584261c6ea28e2e69d8c79fffe283c96a3/img/Guia_G2/inicio.png)
 
 
 ###  - 
 
-<span style = "color:black"></span>
+
 
 
