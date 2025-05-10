@@ -43,5 +43,5 @@ Se debe poner el mismo nombre que en el punto 4 en home, osea "Inicio" y retorna
 7. ¡A trabajar!
 Dentro del Scaffold que es donde se lleva  acabo la estructura base de la app podemos poner textos, columnas, filas, imagenes, etc.
 Ejemplo:
-![Imagen](Imagenes/08%20Ejemplo.png)
+![Imagen](https://github.com/gerardorosales2222/desarrollo_app/blob/alumnos/03%20Row%20y%20Column/Guia/Grupo%2003/Imagenes/08%20Ejemplo.png)
 ![Imagen](Imagenes/09%20Ejemplo.png)
