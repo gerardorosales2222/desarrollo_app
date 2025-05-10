@@ -17,7 +17,7 @@
 <font face="Pasifico"> PASO 4: </font>
 #### Seleccionamos lugar de guardado
 
-![imagen](imagen/4.jpg)
+![imagen](https://github.com/gerardorosales2222/desarrollo_app/blob/alumnos/03%20Row%20y%20Column/Guia/Grupo%2004/imagen/4.jpg)
 
 
 <font face="Pasifico"> PASO 5: </font>
