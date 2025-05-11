@@ -17,7 +17,7 @@
 <font face="Pasifico"> PASO 4: </font>
 #### Seleccionamos lugar de guardado
 
-![imagen](https://github.com/gerardorosales2222/desarrollo_app/blob/alumnos/03%20Row%20y%20Column/Guia/Grupo%2004/imagen/4.jpg)
+![imagen](imagen/4.jpg)
 
 
 <font face="Pasifico"> PASO 5: </font>
@@ -36,8 +36,8 @@
 ![imagen](imagen/7.png)
 
 <font face="Pasifico"> PASO 8: </font>
-#### esto se hace devido a errore que salen en main donde me dice que voi a usar un paquete que aun no tengo la libreria
-![imagen](imagen/9.png)
+#### esto se hace debido a errore que salen en main donde me dice que void va usar un paquete que aun no tengo la libreria
+![imagen](imagen/error.png)
 
 <font face="Pasifico"> PASO 9: </font>
 #### para solucionar esto me voy a la terminal de la aplicacion y coloco el comando flutter pub get
@@ -52,29 +52,145 @@
 #### el paquete de flutter me trae el main que si tiene una sola linea la funcion que estoy usando me permite cambiar:
 
 ![imagen](imagen/11.png)
-#### por esto. main representa la clase principal,donde corre la plicacion:
+#### *por esto. main representa la clase principal,donde corre la plicacion:
 ![imagen](imagen/13.png)
+
+
+####  *nosotros lo modificamos como inicio
+![imagen](imagen/main.png)
+
 
 ### Que tenemos en la app?
 
  <font face="Pasifico"> PASO 1: </font>
-#### StatelesWidget que son estatcios ,no permiten cambios de estados
+#### StatelesWidget que son estatcios ,no permiten cambios de estados esto se auto completa 
 ![imagen](imagen/12.png)
+
+#### *nosotros le pusimos inicio 
+![imagen](imagen/Statel.png)
+
+
+
+
+
 
 <font face="Pasifico"> PASO 2: </font>
 #### StatefulWidget que son dinamicos ,si permiten cambios de estados
 ![imagen](imagen/14.png)
 
+
 <font face="Pasifico"> PASO 3: </font>
-#### tenemos @override que se trata de sobreescribir un metodo 
+####  A)  tenemos @override que se trata de sobreescribir un metodo 
 ![imagen](imagen/15.png)
+
+####   en override tenemos:
+![imagen](imagen/override.png)
+#### donde le ponemos que retorne MaterialApp :
+##### donde tenemos home con el Scaffod y body con center.
+     
+![imagen](imagen/MaterialApp.png)
+
+
+ <font face="Pasifico"> PASO 3: </font>
+#### luego realizamos una super clase de nombre cuadrado(me permite tener un contenedor donde le doy forma y puedo reutilizar codigo de forma) fuera de inicio(que me permite dar inicio a mi aplicacion)
+![imagen](imagen/contenedor.png)
+
+
+<font face="Pasifico"> PASO 4: </font>
+#### hay le ponemos dise;o
+![imagen](imagen/dise.png)
+
+
+<font face="Pasifico"> PASO 5: </font>
+#### anadimos color 
+![imagen](imagen/deco.png)
+
+<font face="Pasifico"> PASO 6: </font>
+#### colocamos el AppBar (parte superior)
+![imagen](imagen/ApBar.png)
+
+<font face="Pasifico"> PASO 7: </font>
+#### intercambiamos certer por row 
+![imagen](imagen/row.png)
+
+<font face="Pasifico"> PASO 8: </font>
+#### a esto le agregamos el contenedor de la clase cuadrado 
+![imagen](imagen/rowcon.png)
+
+
+
 
 #### Damos por finalizada esta gia( trabajo practico hecho por Emely Dominguez y Quiroga Santigo)
 
 ##### Dejamos codigo de muestra !!!
+<font face="Pasifico"> Codigo ejemplo : </font>
+
+``` dart
+
+import 'package:flutter/material.dart';
+
+void main(List<String> args) {
+  runApp(const inicio());
+}
 
 
-<font face="Pasifico"> Codigo de muestra : </font>
+
+class cuadrado extends StatelessWidget {
+  const cuadrado ({super.key});
+ @override
+Widget build(BuildContext context) {
+  return Container(
+          width: 150, //ancho del cuadrado
+      height: 150,//alto del cuadrado
+      margin: EdgeInsets.only(top: 20),//espacio entre cuadrados
+      decoration: BoxDecoration(//decoracio 
+        color: Colors.green[400],//color
+      ),
+    );
+
+
+
+}
+
+
+}
+
+ class inicio extends StatelessWidget {
+  const inicio({super.key});
+
+
+
+
+
+
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+   
+   home:Scaffold(
+
+    appBar: AppBar(backgroundColor: Colors.amber, title: Center(
+          child: Text('Ejemplo 12', style: TextStyle(color: Colors.white),),
+        ),),//es la parte superior saldra color amarillo y con el nombre ejemplpo12
+
+body: Row(
+          mainAxisAlignment: MainAxisAlignment.spaceAround,
+          children: <Widget>[
+           cuadrado(),
+cuadrado()
+            ]
+        ),
+
+   ) ,
+
+    );
+  }
+}
+ ```
+
+
+#### Codigo de muestra calculadora : 
 
 ``` dart
 
