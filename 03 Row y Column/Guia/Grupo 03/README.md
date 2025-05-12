@@ -19,14 +19,14 @@ Al elegir New Proyect, elegimos la opcion **Empty Aplication**.
 3. Elegir la carpeta y nombrar el proyecto.
 Luego del paso anterior, se abrira una ventana donde se debe elegir la carpeta donde se guardara el proyecto y hacemos clic en seleccionar carpeta.
 
-![Imagen](Imagenes/03%20Seleccionar%20carpeta.jpg)
+![Imagen](https://github.com/Agustina199808/desarrollo_app/blob/alumnos/03%20Row%20y%20Column/Guia/Grupo%2003/Imagenes/03%20Seleccionar%20carpeta.jpg)
 
 Al nombrar el proyecto se deben usar minusculas y guines bajos "_" .No se permiten espacios ni acentos.
 
 4. Identificar las partes del codigo.
 La siguiente imagen muestra el codigo por defecto que nos da Flutter
 
-![Imagen](Imagenes/05%20titulo.png)
+![Imagen](https://github.com/Agustina199808/desarrollo_app/blob/alumnos/03%20Row%20y%20Column/Guia/Grupo%2003/Imagenes/05%20titulo.png)
 
 Dentro de **Widget build(BuildContext context)** identificamos al **home** y cambiamos la palabra **Scaffold** por **Inicio**. Tambien con **title** le asignamos un titulo de encabezado al proyecto.
 
@@ -34,7 +34,7 @@ Dentro de **Widget build(BuildContext context)** identificamos al **home** y cam
 Tenemos dos tipos de Widget, los estáticos(Stateless) y dinámicos(Stateful). La eleccion de estos va a depender lo que el usuario quiera realizar.
 En este caso hacemos un widget Stateless
 
-![Imagen](Imagenes/06%20Crear%20Widget.png)
+![Imagen](https://github.com/Agustina199808/desarrollo_app/blob/alumnos/03%20Row%20y%20Column/Guia/Grupo%2003/Imagenes/06%20Crear%20Widget.png)
 
 6. Renombrar Widget.
 Se debe poner el mismo nombre que en el punto 4 en home, osea "Inicio" y retornamos un **Scaffold**
@@ -43,5 +43,11 @@ Se debe poner el mismo nombre que en el punto 4 en home, osea "Inicio" y retorna
 7. ¡A trabajar!
 Dentro del Scaffold que es donde se lleva  acabo la estructura base de la app podemos poner textos, columnas, filas, imagenes, etc.
 Ejemplo:
-![Imagen](Imagenes/08%20Ejemplo.png)
+![Imagen](https://github.com/Agustina199808/desarrollo_app/blob/alumnos/03%20Row%20y%20Column/Guia/Grupo%2003/Imagenes/08%20Ejemplo.png)
 ![Imagen](Imagenes/09%20Ejemplo.png)
+
+8. Para agregar Widgets dentro de un Row(Otro Widget) creamos otro Widget que en este ejemplo se llamará **Cuadrado()** y retornara **Container** donde dentro de este modificamos su color, tamaño, etc.
+![Imagen](Imagenes/10%20Cuadrado.png)
+
+Luego de crear el Widget y personalizarlo lo ubicaremos dentro de una "lista de Widgets" dentro del Row:
+![Imagen](Imagenes/11%20Cuadrado.png)
